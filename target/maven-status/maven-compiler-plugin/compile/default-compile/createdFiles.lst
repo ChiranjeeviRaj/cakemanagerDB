@@ -1,0 +1,5 @@
+uk/hybridit/cakemanager/CakemanagerApplication.class
+uk/hybridit/cakemanager/uk/waracle/cakemanager/entity/CakeManagerRepository.class
+uk/hybridit/cakemanager/CakaManagerResource.class
+uk/hybridit/cakemanager/uk/waracle/cakemanager/entity/Cake.class
+uk/hybridit/cakemanager/CakeNotFoundException.class
